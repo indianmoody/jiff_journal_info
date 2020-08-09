@@ -1,2 +1,6 @@
-# jiff_journal_info
-Information for Jiff Journal app.
+# Jiff Journal
+### This app is used to host Privacy Policy, and Terms and Conditions for Jiff Journnal app.  
+  
+  
+#### Developer: Gaurav Bishnoi
+#### gaurav29developer@gmail.com
