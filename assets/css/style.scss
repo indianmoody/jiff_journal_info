@@ -3,7 +3,10 @@
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #e76f51;
-$header-bg-color-secondary: #f4a261;
+$header-bg-color: #608A79;
+$header-bg-color-secondary: #92B4A7;
+
+// Text
+$section-headings-color: #608A79;
 
 @import "{{ site.theme }}";
