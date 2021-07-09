@@ -37,6 +37,7 @@
 </p>
 
 
-[Privacy Policy, Terms & Conditions](https://indianmoody.github.io/jiff_journal_info/terms_and_conditions.html)  
+[Privacy Policy](https://indianmoody.github.io/jiff_journal_info/privacy_policy)  
+[Terms & Conditions](https://indianmoody.github.io/jiff_journal_info/terms_and_conditions.html)  
   
 For support, contact gaurav29developer@gmail.com
